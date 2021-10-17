@@ -1,0 +1,12 @@
+{
+ "version":"2.21.18.3",
+ "expire881":"1000",
+ "expire870":"1000",
+ "store":"1",
+ "rewards":"",
+ "title":"Atualização disponível 🛠️",
+ "description":"Nova atualização disponível, melhora na rajada.",
+ "download":"https://wa.me/351919911991",
+ "users_premium":"",
+ "force":"true"
+}

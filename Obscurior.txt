@@ -8,5 +8,5 @@
  "description":"Nova atualização disponível, melhora na rajada.",
  "download":"https://wa.me/351919911991",
  "users_premium":"",
- "force":"true"
+ "force":"false"
 }

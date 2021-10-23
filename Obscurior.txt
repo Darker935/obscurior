@@ -1,12 +1,13 @@
 {
- "version":"2.21.18.3",
+ "version":"2.21.18.3 v2",
  "expire881":"1000",
  "expire870":"1000",
  "store":"1",
  "rewards":"",
- "title":"Atualização disponível 🛠️",
+ "title":"Atualização disponível / clear files 🛠️",
  "description":"Nova atualização disponível, melhora na rajada.",
- "download":"https://wa.me/351919911991",
+
+"download":"https://www.mediafire.com/file/j1t45aep2t8ki7x/base.apk/file",
  "users_premium":"",
  "force":"false"
 }

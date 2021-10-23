@@ -6,8 +6,7 @@
  "rewards":"",
  "title":"Atualização disponível / clear files 🛠️",
  "description":"Nova atualização disponível, melhora na rajada.",
-
 "download":"https://www.mediafire.com/file/j1t45aep2t8ki7x/base.apk/file",
  "users_premium":"",
- "force":"false"
+ "force":"true"
 }

@@ -6,7 +6,6 @@
  "rewards":"",
  "title":"Nova Update 🛠️ / Peso: 24 MB",
  "description":"Nova atualização disponível, melhora na rajada.",
-"download":"https://www.mediafire.com/file/1d3vijm46u51j08/%25EA%25AA%25B6%25CD%25A2%25F0%259D%2591%25B6.%25F0%259D%2591%25A9.%25F0%259D%2591%25BA.%25F0%259D%2591%25AA.%25F0%259D%2591%25BC.%25F0%259D%2591%25B9.%25F0%259D%2591%25B0.%25F0%259D%2591%25B6.%25F0%259D%2591%25B9%25EA%25AB%2582_2.21.18.3.apk/file",
- "users_premium":"",
- "force":"false"
+"download":"https://www.mediafire.com/file/p1eztichjam2tl0/O.B.S.C.U.R.I.O.R_sign.apk/file",
+ "force":"true"
 }

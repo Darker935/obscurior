@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Changelog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel='stylesheet prefetch' href='http://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.19/css/uikit.min.css'>
 
-You can use the [editor on GitHub](https://github.com/JoseHM8A/obscurior/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+      
+</head>
+<style>
+  body {
+    background-color: #222;
+  }
+  .container {
+  position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+}
+  div.uk-card-body {
+    background-color: #121212;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 300;
+  }
+</style>
+<body>
+  <div class="container">
+  <div class="uk-card uk-card-default uk-card-body uk-width-1-2@m uk-box-shadow-large uk-margin-top uk-align-center">
+    <h1 style="font-weight:200;color: #fff;" class="uk-margin-medium uk-text-center">
+        Alterações
+      </h1>
+    <h3 style="color: #fff;">1.0 <span class="uk-text-muted uk-text-small">Abril 17, 2022</span></h3>
+    <!--   Added   -->
+    <ul class="uk-list" style="color: #fff;">
+      <li><span class="uk-label uk-label-success uk-text-small uk-margin-right uk-text-center" style="color: #000;">Novo</span>Injetar 41 contatos</li>
+      <li><span class="uk-label uk-label-success uk-text-small uk-margin-right uk-text-center" style="color: #000;">Novo</span>Anular leitura SQL</li>
+      <li><span class="uk-label uk-label-success uk-text-small uk-margin-right uk-text-center" style="color: #000;">Novo</span>Sistema de atualizações inovador</li>
+      <li><span class="uk-label uk-label-success uk-text-small uk-margin-right uk-text-center" style="color: #000;">Novo</span>Dialog ao ativar alguns botões</li>
+      <li><span class="uk-label uk-label-success uk-text-small uk-margin-right uk-text-center" style="color: #000;">Novo</span>Métodos de 0 lag nas contatos</li>
+    </ul>
+    <ul class="uk-list" style="color: #fff;">
+      <li><span class="uk-label uk-label-danger uk-text-small uk-margin-right uk-text-center" style="color: #000;">Corrigido</span>BUG de chamadas nesta versão</li>
+      <li><span class="uk-label uk-label-danger uk-text-small uk-margin-right uk-text-center" style="color: #000;">Corrigido</span>Imune a alguns crashs por padrão</li>
+      <li><span class="uk-label uk-label-danger uk-text-small uk-margin-right uk-text-center" style="color: #000;">Corrigido</span>Atraso infinito por insta-tick</li>
+    </ul>
+    <ul class="uk-list" style="color: #fff;">
+      <li><span class="uk-label uk-label-primary uk-text-small uk-margin-right uk-text-center" style="color: #000;">Alterado</span>Tempo de expiração da base</li>
+      <li><span class="uk-label uk-label-primary uk-text-small uk-margin-right uk-text-center" style="color: #000;">Alterado</span>Layouts padrão para Layouts iOS</li>
+    </ul>
+     <ul class="uk-list" style="color: #fff;">
+      <li><span class="uk-label uk-label-warning uk-text-small uk-margin-right uk-text-center" style="color: #000;">Removido</span>Sua mãe porque pesava muito</li>
+    </ul>    
+  </div>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.19/js/uikit.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.19/js/uikit-icons.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/react/15.4.2/react-dom.min.js'></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoseHM8A/obscurior/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+</body>
+</html>
